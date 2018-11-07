@@ -18,7 +18,7 @@ email: tom@iamtomvance.co.uk
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tomv94
+twitter_username: tomvance94
 github_username:  TomVance
 permalink: /:categories/:title.html
 # Build settings
