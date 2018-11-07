@@ -12,5 +12,6 @@ run by [SkillsMatter](https://skillsmatter.com).
 
 I spoke about how at [Holiday Extras](http://holidayextras.com) we have built a great culture around microservices.
 
-https://skillsmatter.com/skillscasts/12773-cultivating-a-microservice-culture-via-tooling
+The talk can be seen here:
 
+[https://skillsmatter.com/skillscasts/12773-cultivating-a-microservice-culture-via-tooling](https://skillsmatter.com/skillscasts/12773-cultivating-a-microservice-culture-via-tooling)
