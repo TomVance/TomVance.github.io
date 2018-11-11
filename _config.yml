@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tom Vance | Software Enginner | Javascript Enthusiast
 email: tom@iamtomvance.co.uk
-description: > Software Engineer and Javascript Enthusiast. Canterbury Kent.
+description: Software Engineer and Javascript Enthusiast. Canterbury Kent.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iamtomvance.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tomvance94
